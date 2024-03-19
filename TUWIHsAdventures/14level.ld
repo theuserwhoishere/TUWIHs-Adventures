@@ -1,5 +1,6 @@
 [general]
 name=Anaglyph Realm
+mapid=anaglyph
 customparent=
 author=theuserwhoishere
 palette=anaglyph.png

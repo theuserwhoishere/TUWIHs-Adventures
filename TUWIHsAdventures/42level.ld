@@ -2,6 +2,7 @@
 author=theuserwhoishere
 customparent=
 name=Evil Basement
+mapid=evil
 paletteroot=1
 palette=ruins.png
 unlockcount=6

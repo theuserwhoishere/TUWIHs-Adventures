@@ -5,6 +5,7 @@ total=0
 author=theuserwhoishere
 customparent=
 name=Aquatic Realm
+mapid=aqua
 paletteroot=1
 palette=ocean.png
 unlockcount=9

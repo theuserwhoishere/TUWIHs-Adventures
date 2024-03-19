@@ -1,12 +1,12 @@
 [general]
-author=theuserwhoishere
 name=$3,3TUWIH's Adventures
+author=theuserwhoishere
 mods=1
 start=1level
-themecount=2
 firstlevel=2level
+themecount=3
 
 [levels]
-levelid=52
-rolling_levelid=52
+levelid=66
+rolling_levelid=66
 
